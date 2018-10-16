@@ -1,3 +1,5 @@
+// Code for the edit screen
+
 import { initializeEditPage, generateLastEdited } from './views'
 import { updateNote, removeNote } from './notes'
 
